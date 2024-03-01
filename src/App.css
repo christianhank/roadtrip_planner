@@ -1,0 +1,27 @@
+#root {
+  /*max-width: 1280px; */
+  margin: 0 auto;
+
+
+}
+
+
+
+.map-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.fade-in {
+  animation: fadeInAnimation 0.5s ease-out forwards;
+}
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
