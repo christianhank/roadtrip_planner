@@ -1,5 +1,9 @@
 # React + Vite
 
+[https://roadtripplanner.netlify.app/](https://roadtripplanner.netlify.app/)
+
+![Example Image](https://github.com/christianhank/roadtrip_planner/blob/main/public/example.jpg?raw=true)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
